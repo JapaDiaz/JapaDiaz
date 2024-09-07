@@ -1,5 +1,5 @@
 <h2 align="left">Olá | Me chamo Pedro, seja bem vindo👋!</h2>
-
+<p>Tenho 26 anos e sempre gostei de projetos web e aplicações, atualmente atuo como desenvolvedor e gestor de projetos</p>
 
 
 <br clear="both">
@@ -30,8 +30,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
-
-###
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=jrTMMG0zJyI&t=1243s&ab_channel=thebootlegboy" target="_blank">
