@@ -66,6 +66,6 @@
 <br clear="both">
 
 <div align="center">
-  <!-- Gráfico de Contribuições -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JapaDiaz&theme=highcontrast" alt="GitHub Contributions" width="400" />
+  <!-- Substituição do gráfico de contribuições pela imagem -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThpazA1Zm0wbjAwejA5cDJjbndqM3ljc3QxeHd1c24wbTlsY2N4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp" alt="Programming Background" width="400"/>
 </div>
