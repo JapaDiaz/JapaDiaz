@@ -1,13 +1,13 @@
 <h2 align="left">Olá, me chamo Pedro! Seja bem-vindo 👋</h2>
 
 <p align="left"> 
-👨‍🎓 Sou formado pelo Instituto Federal de São João da Boa Vista com um MBA em Gestão de Projetos. Durante minha trajetória acadêmica, tive a oportunidade de desenvolver pesquisas em neuromarketing e adquirir certificações em empreendedorismo e economia verde pelo Senai Rio Claro.
+👨‍🎓 Sou formado pelo Instituto Federal de São João da Boa Vista com um MBA em Gestão de Projetos. Durante minha trajetória acadêmica, tive a oportunidade de desenvolver pesquisas em "Neuromarketing no ambito de TI" e adquirir certificações em empreendedorismo e economia verde pelo Senai Rio Claro.
 
 💻 Com 26 anos, sempre fui apaixonado por programação, especialmente no desenvolvimento de plataformas web. As minhas principais ferramentas de trabalho incluem **JavaScript**, **PHP**, **HTML** e o gerenciamento de **bancos de dados MySQL**.
 
 🚀 Sou movido pela busca contínua por aprimoramento, sempre acompanhando as tendências mais recentes do mercado de tecnologia. Estou aberto a novos desafios e colaborações que me permitam expandir meus conhecimentos e criar impacto positivo através da inovação e da tecnologia.
 
-📚 Quando não estou codificando, gosto de explorar novas tecnologias e contribuir para a comunidade de desenvolvedores.
+📚 Quando não estou codificando, gosto de explorar novas tecnologias e contribuir para a comunidade de desenvolvedores(e jogar tambem).
 </p>
 
 <br clear="both">
