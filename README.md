@@ -1,27 +1,22 @@
-<h2 align="left">Olá, me chamo Pedro! Seja bem-vindo 👋</h2>
+<h2 align="center">Olá, me chamo Pedro! Seja bem-vindo 👋</h2>
 
-<p align="left"> 
-👨‍🎓 Sou formado pelo Instituto Federal de São João da Boa Vista com um MBA em Gestão de Projetos. Durante minha trajetória acadêmica, tive a oportunidade de desenvolver pesquisas em "Neuromarketing no ambito de TI" e adquirir certificações em empreendedorismo e economia verde pelo Senai Rio Claro.
+<p align="center"> 
+👨‍🎓 Sou formado pelo Instituto Federal de São João da Boa Vista com um MBA em Gestão de Projetos. Durante minha trajetória acadêmica, tive a oportunidade de desenvolver pesquisas em "Neuromarketing no âmbito de TI" e adquirir certificações em empreendedorismo e economia verde pelo Senai Rio Claro.
 
 💻 Com 26 anos, sempre fui apaixonado por programação, especialmente no desenvolvimento de plataformas web. As minhas principais ferramentas de trabalho incluem **JavaScript**, **PHP**, **HTML** e o gerenciamento de **bancos de dados MySQL**.
 
-🚀 Sou movido pela busca contínua por aprimoramento, sempre acompanhando as tendências mais recentes do mercado de tecnologia. Estou aberto a novos desafios e colaborações que me permitam expandir meus conhecimentos e criar impacto positivo através da inovação e da tecnologia.
-
-📚 Quando não estou codificando, gosto de explorar novas tecnologias e contribuir para a comunidade de desenvolvedores(e jogar tambem).
+📚 Quando não estou codificando, gosto de explorar novas tecnologias e contribuir para a comunidade de desenvolvedores (e jogar também).
 </p>
 <br clear="both">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <!-- Gráfico de Contribuições -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JapaDiaz&theme=highcontrast" alt="GitHub Contributions" width="400"/>
-  
+<div align="center">
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JapaDiaz&layout=compact&theme=radical" alt="Top Langs" width="400"/>
 </div>
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -41,7 +36,13 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center" style="border: 1px solid #ccc; padding: 10px; width: fit-content;">
+  <img src="https://raw.githubusercontent.com/JapaDiaz/JapaDiaz/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.youtube.com/watch?v=jrTMMG0zJyI&t=1243s&ab_channel=thebootlegboy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo">
   </a>
@@ -64,4 +65,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JapaDiaz/JapaDiaz/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <!-- Gráfico de Contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JapaDiaz&theme=highcontrast" alt="GitHub Contributions" width="400" />
+</div>
