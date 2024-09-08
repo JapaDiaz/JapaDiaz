@@ -12,6 +12,14 @@
 
 <br clear="both">
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- Gráfico de Contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JapaDiaz&theme=highcontrast" alt="GitHub Contributions" width="400"/>
+  
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JapaDiaz&layout=compact&theme=radical" alt="Top Langs" width="400"/>
+</div>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
