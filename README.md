@@ -9,7 +9,6 @@
 
 📚 Quando não estou codificando, gosto de explorar novas tecnologias e contribuir para a comunidade de desenvolvedores(e jogar tambem).
 </p>
-
 <br clear="both">
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
@@ -19,6 +18,8 @@
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JapaDiaz&layout=compact&theme=radical" alt="Top Langs" width="400"/>
 </div>
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -38,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
-<br>
+<br clear="both">
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=jrTMMG0zJyI&t=1243s&ab_channel=thebootlegboy" target="_blank">
